@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+/.vscode
+/backend
+/frontend.zip
+>>>>>>> 973835d3167ba4800bfe6ccf8f970e87df2c28c5
